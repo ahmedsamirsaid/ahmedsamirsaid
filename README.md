@@ -48,5 +48,3 @@ I'm a Computer Engineering student passionate about software development and tec
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamirsaid&layout=compact)
-
-[
