@@ -47,6 +47,6 @@ I'm a Computer Engineering student passionate about software development and tec
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamirsaid&show_icons=true)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamisaid&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamirsaid&layout=compact)
 
 [
