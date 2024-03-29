@@ -44,9 +44,9 @@ I'm a Computer Engineering student passionate about software development and tec
 - ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![JUnit](https://img.shields.io/badge/-JUnit-black?logo=junit) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code) ![PyCharm](https://img.shields.io/badge/-PyCharm-green?logo=pycharm) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamir459&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamirsaid&show_icons=true)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamir459&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamisaid&layout=compact)
 
 [
