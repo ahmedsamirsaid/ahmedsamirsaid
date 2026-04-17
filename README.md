@@ -1,50 +1,76 @@
-# Hello, I'm Ahmed Samir! 👋
+# Ahmed Samir 👋
 
-I'm a Computer Engineering student passionate about software development and technology.
+**R&D Engineer · AI Systems & Distributed Infrastructure**
 
-## About Me
-- 🎓 Studying Computer and Systems Engineering at Alexandria University
-- 💻 Interested in software engineering, web development, and machine learning
-- 🔭 I’m currently working on developing a personal health tracker application.
-- 🌱 I’m currently learning Spring Boot, Angular, and MySQL.
-- 👯 I’m looking to collaborate on open-source projects related to web development or software engineering.
-- 🤔 I’m looking for help with mastering data structures and algorithms.
-- 💬 Ask me about anything related to programming, technology, or engineering.
-- 📫 How to reach me: [Email](mailto:ahmed.samir.said29@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-samir-5330b2226/) | [GitHub](https://github.com/ahmedsamirsaid)
-- ⚡ Fun fact: I love to play chess in my free time.
+I build things that ship — from fine-tuning LLMs and orchestrating Multi-Agent Systems to deploying production pipelines on Kubernetes. Currently pursuing an MSc in Computer & Systems Engineering at Alexandria University while working at AIC.
 
-## Projects
-- **[NutriBalance: Personal Health Tracker App](https://github.com/ahmedsamirsaid/NutriBalance_HealthTracker.git)**  
-  ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)  
-  A web application to help users maintain a healthy lifestyle.
+---
 
-- **[Pet Adoption and Shelter Management System](https://github.com/ahmedsamirsaid/Pet-Adoption-and-Shelter-Management-System.git)**  
-  ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)  
-  A comprehensive software solution for pet adoption and shelter management.
+## 🔬 What I'm working on
 
-- **[PintOS](https://github.com/ahmedsamirsaid/pintOS.git)**  
-  ![C](https://img.shields.io/badge/-C-blue?logo=c)  
-  An operating system project with enhanced features.
+- **Multi-Agent translation system** — orchestrating specialized agents (translation, QA, refinement, consistency) with RAG context enrichment, deployed on on-premises K8s
+- **LLM fine-tuning** — SFT and RL alignment for domain-specific literary translation
+- **Computer Vision pipelines** — satellite imagery segmentation (92% accuracy, 90% inference time reduction) and crop classification at scale
+- **MVCC internals** (at ITTIA DB) — novel concurrency technique optimized for constrained IoT databases
 
-- **[Board Drawing Engine](https://github.com/ahmedsamirsaid/game_engine.git)**  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![Scala](https://img.shields.io/badge/-Scala-red?logo=scala) ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)  
-  A gaming engine supporting various games.
+---
 
-- **[Signal Flow Graph](https://github.com/ahmedsamirsaid/Signal-Flow-Graph.git)**  
-  ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)  
-  A web app for signal flow graph calculations.
+## 🛠 Tech stack
 
-- **[Mail Server](https://github.com/ahmedsamirsaid/Mail-server.git)**  
-  ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)  
-  A web-based email program with various features.
+**AI / ML**
 
-## Skills
-- ![Java](https://img.shields.io/badge/-Java-orange?logo=java) ![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![C/C++](https://img.shields.io/badge/-C/C++-blue?logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript) ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-yellowgreen?logo=html5) ![Scala](https://img.shields.io/badge/-Scala-red?logo=scala) ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring) ![Angular](https://img.shields.io/badge/-Angular-red?logo=angular) ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react) ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
-- ![Git](https://img.shields.io/badge/-Git-black?logo=git) ![JUnit](https://img.shields.io/badge/-JUnit-black?logo=junit) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code) ![PyCharm](https://img.shields.io/badge/-PyCharm-green?logo=pycharm) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![vLLM](https://img.shields.io/badge/-vLLM-000000)
+![Triton](https://img.shields.io/badge/-Triton-76B900)
 
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamirsaid&show_icons=true)
+**Backend & Infrastructure**
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamirsaid&layout=compact)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white)
+![C/C++](https://img.shields.io/badge/-C/C++-00599C?logo=cplusplus&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+
+**Infra & Data**
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white)
+
+---
+
+## 🚀 Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Book Translation MAS** | Multi-agent orchestration system for automated literary translation with RAG and quality checking | Python, LangChain, K8s, vLLM |
+| **Satellite CV Pipeline** | Crop classification and building detection on satellite imagery — 92% accuracy, 90% faster inference | PyTorch, OpenCV, Triton |
+| **Unilever CRM Platform** | Dual enterprise CRM with AI chatbot, real-time chat, and full Azure cloud deployment | Spring Boot, Angular, Azure, CI/CD |
+| **ITTIA DB Benchmarks** | MVCC concurrency research and benchmark suite for embedded IoT databases | C/C++ |
+| **PintOS** | Extended OS kernel with advanced scheduling, virtual memory, and file system | C |
+
+---
+
+## 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-samir-abdelmaksoad/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:ahmed.samir.said29@gmail.com)
+
+---
+
+<details>
+<summary>📊 GitHub stats</summary>
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedsamirsaid&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsamirsaid&layout=compact&hide_border=true)
+
+</details>
